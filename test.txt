@@ -1,2 +1,3 @@
+Updated test.txt file
 This is a test file from master branch
 
